@@ -1,0 +1,51 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&family=Montserrat:ital@1&family=Ubuntu:wght@300&display=swap');
+
+.img{
+    height: 80px;
+    width: 80px;
+}
+
+html ,body{
+    height: 100vrh;
+}
+.gradient{
+    background: rgb(25,28,217);
+     background: linear-gradient(90deg, rgba(25,28,217,0.9612219887955182) 0%, rgba(109,66,148,1) 100%);
+     top: 0px;
+}
+.page-header{
+    margin-top: 7rem;
+    font-size: 1.25rem;
+    color: white;
+    font-family: 'Bai Jamjuree', sans-serif;
+}
+.header1{
+    margin-top: 2rem;
+    width: 250px;
+    height: 170px;
+    margin-bottom: 3rem;
+}
+.feature{
+    color: white;
+}
+.feature ul{
+    padding-left: 2rem;
+    list-style-type: none;
+}
+.feature ul li{
+    padding-left: 2rem;
+    background-image: url('/assets/images/checkk.svg');
+    background-repeat: no-repeat;
+    background-size: 3%;
+    line-height: 1.5rem;
+    margin-bottom: 1rem;   
+}
+.color{
+    color: white;
+}
+.foot{
+   background-color: black;
+   color: white;
+   text-align: center;
+}
